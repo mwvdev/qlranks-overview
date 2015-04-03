@@ -6,7 +6,7 @@ and periodically updating it.
 
 ## Requirements
 
-* Node
+* [Node](https://nodejs.org)
 
 ## How to run
 
