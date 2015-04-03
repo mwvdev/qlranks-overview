@@ -19,7 +19,7 @@ $ npm install
 Run using:
 
 ``` bash
-$ npm install
+$ npm start
 ```
 
 Run tests using:
