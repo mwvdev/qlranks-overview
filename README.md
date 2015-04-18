@@ -4,6 +4,8 @@ QLRanks quick ELO overview
 A console application for fetching the ELO of a player from [qlranks.com](http://www.qlranks.com)
 and periodically updating it.
 
+![Example screenshot](screenshots/view-player.png)
+
 ## Requirements
 
 * [Node](https://nodejs.org)
