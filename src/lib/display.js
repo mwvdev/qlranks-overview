@@ -180,7 +180,7 @@ module.exports = {
 
         infoBox.key('r', refreshPlayer);
 
-        playerBox.set('timer', setTimeout(refreshPlayer, 20 * 60 * 1000));
+        playerBox.set('timer', setTimeout(refreshPlayer, 5 * 60 * 1000));
 
         infoBox.on('detach', function() {
             clearTimeout(playerBox.get('timer'));
